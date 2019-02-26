@@ -5,7 +5,7 @@ By ClayCoffee
 
 Prize 10,000,000!!!
 
-# ... The Power of Racd4 / Ct6Mn
+# ... The Power of [Racd4 / Ct6Mn]
 Which choice is true?
 
 # Detail
