@@ -1,5 +1,7 @@
 # BeSB67---ClayPuzzle
-
+Puzzle Number 2
+By ClayCoffee
+10,000,000!!!
 
 # ... The Power of Racd4 / Ct6Mn
 Which choice is true?
